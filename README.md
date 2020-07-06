@@ -13,7 +13,6 @@ yarn && yarn start
 
 ```
 curl --location --request GET '{{host}}/get'
-
 ```
 
 - Ответ:
